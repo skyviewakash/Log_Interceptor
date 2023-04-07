@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/ihsanbal/LoggingInterceptor/blob/master/images/logcat.png"/>
+    <img height="500px" src="https://github.com/skyviewakash/Log_Interceptor/blob/main/Screenshot%202023-04-07%20164437.png"/>
 </p>
 
 Usage
@@ -54,7 +54,7 @@ setLevel(Level.BASIC)
 	      .BODY // Logging body
 ```	
 
-Platform - [Platform](https://github.com/square/okhttp/blob/master/okhttp/src/main/java/okhttp3/internal/platform/Platform.java)
+Platform
 --------
 
 ```kotlin
